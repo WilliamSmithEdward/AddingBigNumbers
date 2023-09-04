@@ -2,9 +2,9 @@
 Code wars kata: Adding Big Numbers https://www.codewars.com/kata/525f4206b73515bffb000b21/train/csharp
 
 ## Overview
-The object is to create a method to sum two potentially very large numbers represented as strings.
+The objective of this program is to sum two potentially very large numbers represented as strings.
 
-## Method Details
+## Methods
 ```csharp
 public static string Add(string a, string b)
 ```
